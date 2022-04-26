@@ -1,0 +1,33 @@
+
+.login-container{
+
+    width: 420px;
+    height: 320px;
+    border-radius: 12px;
+    padding: 25px 25px;
+    margin: auto;
+    box-shadow: 2px 2px 9px rgb(184, 184, 184),
+                -1px -1px 5px rgb(184, 184, 184);
+}
+img {
+    margin-top: 13% !important;
+    margin-left: 15% !important;    
+}
+.text{
+    bottom: 10px !important;
+    font-size: 24px;
+    margin-left: 17% !important;
+
+}
+/* @media only screen and (max-width: 780px) {
+    media {
+        height: 500px;
+        width: 390px;
+        background-color: lightblue;
+    }
+  } */
+
+  .btn-color{
+    background-color: #4CAF50; /* Green */
+    border: none;
+  }
